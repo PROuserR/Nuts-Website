@@ -1,0 +1,6 @@
+{
+  "name": "Saber Nuts",
+  "description": "Artisanal hearth-roasted nuts, Mediterranean dried fruits, honey pistachio nougat, and cardamom coffee crafted in small batches by Saber Nuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
